@@ -82,11 +82,11 @@ SUCCESS: Unirtos project built successfully!
 
 <img src="./media/home_page.png" alt="表盘页" style="zoom: 50%;" />
 
-1. 在表盘页向上滑动，进入功能选择页，可看到木鱼计数器、番茄钟、秒表、计算器四个功能图标垂直排列，上下滑动切换当前选中项，选中项图标放大并居中显示。
+2. 在表盘页向上滑动，进入功能选择页，可看到木鱼计数器、番茄钟、秒表、计算器四个功能图标垂直排列，上下滑动切换当前选中项，选中项图标放大并居中显示。
 
 <img src="./media/function_selection_page.png" alt="功能选择页" style="zoom: 50%;" />
 
-1. 在功能选择页点击/双击当前选中的图标，进入对应的独立运行页：
+3. 在功能选择页点击/双击当前选中的图标，进入对应的独立运行页：
    - **秒表**：点击/双击开始或暂停计时，长按屏幕上的 RESET 按钮区域归零计时，下滑返回功能选择页。
 
      <img src="./media/stopwatch.png" alt="秒表" style="zoom: 50%;" />
@@ -103,7 +103,7 @@ SUCCESS: Unirtos project built successfully!
 
      <img src="./media/calc.png" alt="计算器" style="zoom: 50%;" />
 
-2. 在功能选择页的屏幕顶部区域下滑，无论当前选中哪一项都会直接返回表盘页。
+4. 在功能选择页的屏幕顶部区域下滑，无论当前选中哪一项都会直接返回表盘页。
 
 ### 运行日志
 

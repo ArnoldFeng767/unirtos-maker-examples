@@ -82,11 +82,11 @@ After the firmware builds successfully, flash it to the development board with Q
 
 <img src="./media/home_page.png" alt="Clock Face" style="zoom: 50%;" />
 
-1. Swipe up on the clock face to enter the feature-selection page, where four feature icons — wooden-fish counter, tomato timer, stopwatch, and calculator — are arranged vertically; swipe up/down to switch the currently selected item, which is enlarged and centered.
+2. Swipe up on the clock face to enter the feature-selection page, where four feature icons — wooden-fish counter, tomato timer, stopwatch, and calculator — are arranged vertically; swipe up/down to switch the currently selected item, which is enlarged and centered.
 
 <img src="./media/function_selection_page.png" alt="Feature-Selection Page" style="zoom: 50%;" />
 
-1. Tap/double-tap the currently selected icon on the feature-selection page to enter its independent run page:
+3. Tap/double-tap the currently selected icon on the feature-selection page to enter its independent run page:
    - **Stopwatch**: Tap/double-tap to start or pause timing; long-press the on-screen RESET button area to reset the timer to zero; swipe down to return to the feature-selection page.
 
      <img src="./media/stopwatch.png" alt="Stopwatch" style="zoom: 50%;" />
@@ -103,7 +103,7 @@ After the firmware builds successfully, flash it to the development board with Q
 
      <img src="./media/calc.png" alt="Calculator" style="zoom: 50%;" />
 
-1. Swiping down in the top area of the screen on the feature-selection page returns directly to the clock face, regardless of which item is currently selected.
+4. Swiping down in the top area of the screen on the feature-selection page returns directly to the clock face, regardless of which item is currently selected.
 
 ### Running Log
 
