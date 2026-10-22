@@ -62,7 +62,13 @@ cd unirtos-maker-examples/small_screen_demo
 
 ### Building the Project
 
-Run the firmware build command in the PowerShell window:
+Continue running the environment initialization command in the open PowerShell window:
+
+```PowerShell
+unirtos-cli env-setup
+```
+
+Then run the firmware build command:
 
 ```PowerShell
 unirtos-cli build -m EG800ZCN_LA -d <project directory>

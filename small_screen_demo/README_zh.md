@@ -62,7 +62,13 @@ cd unirtos-maker-examples/small_screen_demo
 
 ### 构建项目
 
-在开启的 PowerShell 窗口中执行固件编译命令：
+在开启的 PowerShell 窗口中继续执行环境初始化命令：
+
+```PowerShell
+unirtos-cli env-setup
+```
+
+然后执行固件编译命令：
 
 ```PowerShell
 unirtos-cli build -m EG800ZCN_LA -d <项目目录>
